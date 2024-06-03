@@ -2,4 +2,5 @@
 
 This work aims to explore the potential of Ultrasound (US) in fingerprinting. The study has been done using linear array probes. 
 
-P.S. The work is underway and updates shall be made 
+**ABSTRACT**<br />
+Biometric recognition systems are playing an increasingly important role in the current era. In what initially started as a helping tool for investigative agencies, detectives, and police, in solving crimes and for security, biometric systems have grown into more civilian fields. This growth has been made possible with nuances in technology complemented by the immense amount of research in this domain. Immigration, Access Control In offices, Attendance management, Voting systems, Mobile Phones, Law Enforcement, and Solving crimes are a few applications that utilize biometrics. Although traditional fingerprinting methods such as ink and paper exists, this paper explores the potential of Ultrasound(US) in fingerprinting. This paper also aims to compare the imaging (Brightness Mode Imaging (B-Mode)) using the L11 5v and L22 8v CMUT (Capacitative Micromachined Ultrasonic Transducer) probes through a series of experiments. Finally, we compare the working of the CMUT probe using water, acoustic gel, and gel pad as the medium
